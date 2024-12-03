@@ -2,8 +2,8 @@
 
 I am a software engineer from Kerala,India.
 
-- 🔭 I’m currently working on Javascript,ReactJS,Java and Springboot
-- 🌱 I’m currently learning Typescript and NodeJS.
+- 🔭 I’m currently working on Typescript,ReactJS
+- 🌱 I’m currently learning NodeJS.
 
 ## Connect with me
 
